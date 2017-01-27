@@ -36,4 +36,3 @@ curl http://downloads.drone.io/release/darwin/amd64/drone.tar.gz | tar zx
 
 This a go executable, and it is expected to be on the path.
 
-Trigger text, please ignore
